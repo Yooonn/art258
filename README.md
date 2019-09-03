@@ -1,3 +1,3 @@
 # art258
 
-[View Demo](http://yoonnaso.com/artclass/art258/)
+[View Demo](https://yooonn.github.io/art258/)
