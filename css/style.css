@@ -1,0 +1,83 @@
+/* BODY */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #4C4A4B;
+    font-size: 100%; /* 16px */
+    line-height: 1.5em; /* 16px x 1.5em = 24px */
+    background: #252527;
+    padding: 2em;
+}
+
+li {
+    margin-bottom: .3em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif margin-bottom: .5em;
+}
+
+/* HEADING 
+   Based on a Traditinal Typographic Scale
+    16 18 21 24 36 48
+*/
+
+h1 {
+    font-size: 3em; /* 48px */
+    line-height: 1em;
+}
+
+h2 {
+    font-size: 2.25em; /* 36px */
+    line-height: 1.1em;
+}
+
+h3 {
+    font-size: 1.5em; /* 24px */
+    line-height: 1.2em;
+}
+
+h4 {
+    font-size: 1.3125em; /* 21px */
+    line-height: 1.3em;
+}
+
+h5 {
+    font-size: 1.125em; /* 18px */
+    line-height: 1.4em;
+}
+
+h6 {
+    font-size: 1em; /* 16px */
+    line-height: 1.5em;
+}
+
+/* PARAGRAPHS */
+p {
+    margin: 0 0 0 0;
+    max-width: 33em;
+}
+
+/* LINKS */
+a {
+    color: #4C4A4B;
+    text-decoration: none;
+}
+
+a:hover {
+        background: -webkit-gradient(linear,left top,right top,from(#ff8a00),to(#da1b60));
+        background: linear-gradient(to right,#ff8a00,#da1b60);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+
+/*a:focus {
+    color: #A8A39F;
+}
+
+a:visited {
+    color: #036;
+}*/
+
+
